@@ -1,0 +1,15 @@
+1. GPU服务器 配置
+  conda create --name tensor python=3.7  #创建虚拟环境
+  
+  source activate tensor #进入虚拟环境
+  
+  conda install tensorflow-gpu=1.13.1#配置虚拟环境中的gpu
+       
+  
+  
+  
+  
+  
+
+2.不保存并退出当前的vi/vim编辑器
+按“Esc“键，退出”insert“模式，然后输入冒号（：）,紧接着输入下面的命令：q!
