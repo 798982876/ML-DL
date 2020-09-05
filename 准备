@@ -4,6 +4,13 @@
   source activate tensor #进入虚拟环境
   
   conda install tensorflow-gpu=1.13.1#配置虚拟环境中的gpu
+  
+2.文件运行
+  cd 文件夹
+  
+  python main_train.py 177 
+  python predict.py
+  
        
   
   
