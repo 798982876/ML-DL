@@ -11,10 +11,12 @@
   python main_train.py 177 
   python predict.py
   
-       
+  ctrl+c 退出正在运行的程序    
   
   
-  
+3.import psycopg2 遇错
+https://blog.csdn.net/lmzone24/article/details/78708957
+
   
   
 
