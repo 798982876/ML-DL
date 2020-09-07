@@ -15,7 +15,8 @@
   
   
 3.import psycopg2 遇错
-https://blog.csdn.net/lmzone24/article/details/78708957
+进入 anaconda powershell prompt 执行 pip install psycopg2
+
 
   
   
